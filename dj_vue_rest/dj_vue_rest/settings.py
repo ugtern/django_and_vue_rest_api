@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'webpack_loader'
+    'webpack_loader',
+    'filemanager',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -135,3 +137,6 @@ WEBPACK_LOADER = {
         'IGNORE': ['.+\\.hot-update.js', '.+\\.map']
     }
 }
+
+MEDIA_URL = "/media/"
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')

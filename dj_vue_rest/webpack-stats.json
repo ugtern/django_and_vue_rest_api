@@ -1,1 +1,1 @@
-{"status":"done","publicPath":"/dist/","chunks":{"main":[{"name":"build.js","publicPath":"/dist/build.js","path":"/Users/sergej/PycharmProjects/django_and_vue_rest_api/dj_vue_rest/dist/build.js"}]}}
+{"status":"error","publicPath":"/dist/","error":"Error","message":"build.js from UglifyJs\nUnexpected token: punc (() [src/App.vue:25,0][build.js:122,6]"}

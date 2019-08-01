@@ -1,6 +1,6 @@
 # dj_vue_rest
 
-> simple web application with django rest framwork and vue js
+> A Vue.js project
 
 ## Build Setup
 

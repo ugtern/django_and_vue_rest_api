@@ -1,8 +1,8 @@
 {
   "name": "dj_vue_rest",
-  "description": "simple web application with django rest framwork and vue js",
+  "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "sergej <ugtern@gmail.com>",
+  "author": "s.v.zhiltsov <s.v.zhiltsov@newcontact.su>",
   "license": "MIT",
   "private": true,
   "scripts": {
